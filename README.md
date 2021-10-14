@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and AI
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me through my website: https://nder.online
 
 <!---
 TechnicToms/TechnicToms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
